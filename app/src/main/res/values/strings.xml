@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Portofolio</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="isinama">puspa sari dian A</string>
+    <string name="nim">NIM : </string>
+    <string name="isinim">175610036</string>
+    <string name="email">E-mail : </string>
+    <string name="isiemail">puspasaridiananggraeni@gmail.com</string>
+    <string name="data">Biodata</string>
+    <string name="butonsubmit">Next</string>
+    <string name="buttonutama">detail</string>
+    <string name="main_awal">Data saya</string>
+    <string name="profil">profil</string>
+    <string name="back">back</string>
+    <string name="buttondone">done</string>
+    <string name="nama">Nama : </string>
+    <string name="deskription">
+
+            puspa sari dian Anggraeni kelahiran pangkalan bun,14 maret ,1999.\n
+        aku biasa dipanggil puspa oleh teman- temanku, anak pertama dari dua bersaudara.\n\n
+
+        aku berasal dari kalimantan tengah tepat nya berada di pangkalan bun,\n
+        sekarang aku sedang di yogya untuk berkuliah. \n\n
+
+            aku mempunyai seorang adik bernama nooor khaslisa
+        sekarang dia sudah kelas tiga SD.\n\n
+
+            aku juga mempunyai sahabat sejak sd \n
+        yaitu pattimah ,evy,syifa,bella dan vika.\n
+        sekarang kami sudah berkuliah di daerah masing-masing \n
+        evy berkuliah di kebidanan surabaya sedangkan pattimah berkuliah di iain banjarmasin\n
+        dan syifa berkuliah di semarang mengambil jurusan sastra jepang\n
+
+    </string>
+    <string name="profil">myfoto</string>
+
+
+</resources>
