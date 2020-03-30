@@ -44,7 +44,7 @@
         android:layout_width="121dp"
         android:layout_height="159dp"
         android:layout_marginBottom="36dp"
-        android:contentDescription="@string/profil"
+        android:contentDescription="@string/foto"
         android:scaleType="fitXY"
         android:src="@drawable/profil"
         app:layout_constraintBottom_toTopOf="@+id/Portofolio"
